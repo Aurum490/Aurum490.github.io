@@ -75,7 +75,7 @@ This is a personal website for me to host my resume and my projects! It will ser
 
 ### Built With
 
-[![Typing Hands Animation][typing-animation]](https://meenadeschutter.github.io)
+[![Typing Hands Animation][typing-animation]](https://aurum490.github.io)
 
 * [HTML 5](https://en.wikipedia.org/wiki/HTML5)
 * [Bootstrap 5](https://getbootstrap.com)
@@ -98,7 +98,7 @@ This is a personal website for me to host my resume and my projects! It will ser
     - [] Fill with projects
 - [] Get a domain name
 
-See the [open issues](https://github.com/meenadeschutter/meenadeschutter.github.io/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/aurum490/aurum490.github.io/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -116,9 +116,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Meena De Schutter - meenadeschutter@gmail.com
+Thenuka Herath - ThenukaHerath.Dev@gmail.com
 
-Project Link: [https://github.com/meenadeschutter/meenadeschutter.github.io](https://github.com/meenadeschutter/meenadeschutter.github.io)
+Project Link: [https://github.com/meenadeschutter/aurum490.github.io](https://github.com/aurum490/aurum490.github.io)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
